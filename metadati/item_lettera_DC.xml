@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Raccolta xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="Attestazioni sul Concilio Vaticano II">
+	<item n="1" id="Lettere Concilio Vaticano II-0001">
+		<titolo-item>Lercaro, Giacomo: Lettera del 4 dicembre 1962 [50/201]</titolo-item>
+		<genere>Lettera</genere>
+		<ubicazione>Archivio Dossetti, II n. 109</ubicazione>
+		<immagine n="1" riferimento="img/Pagina1.jpg"/>
+		<immagine n="2" riferimento="img/Pagina2.jpg"/>
+		<fulltext riferimento="../full-text_lettera.html"/>
+			<metadati>
+				<dc:title>Lettera del 4 dicembre 1962</dc:title>
+				<dc:creator>Lercaro, Giacomo</dc:creator>
+				<dc:date>04/12/1962</dc:date>
+				<dc:subject>Concilio Vaticano II</dc:subject>
+				<dc:subject> Intervento in commissione</dc:subject>
+				<dc:description>Lercaro aggiorna i ragazzi del collegio di ciò che succede durante le sedute del Concilio</dc:description>
+				<dc:publisher>Fscire</dc:publisher>
+				<dc:type>Lettera</dc:type>
+				<dc:format>Lettera digitalizzata</dc:format>
+				<dc:identifier>Lettera4DicembreLercaro.html</dc:identifier>
+				<dc:language>italiano</dc:language>
+				<dc:coverage>Roma/Bologna</dc:coverage>
+				<dc:rights>Archivio Dossetti/Fscire</dc:rights>
+			</metadati>
+	</item>
+</Raccolta>
