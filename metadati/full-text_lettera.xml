@@ -116,7 +116,10 @@
 		<p n="10">Tante benedizioni 
 		</p>
 		<p n="11">
-			aff. papà
+			<abbr expan="affetto">
+				aff.
+			</abbr>
+			papà
 		</p>				
 	</body>
 <group>Lettere di Giacomo Lercaro sul Concilio Vaticano II</group>
