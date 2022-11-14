@@ -52,6 +52,11 @@ h1 {
  color: black !important;
 }
 
+.breadcrumb a{
+  text-decoration: none;
+  color:#7a001f;
+}
+
 .image{
   display: inline-table;
   background-image: url(img/testo_img.jpg)!important;
